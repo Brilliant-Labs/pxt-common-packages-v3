@@ -25,3 +25,4 @@ test
 scripts/snorfs/stest*
 scripts/raffs/stest*
 package-lock.json
+.DS_Store
